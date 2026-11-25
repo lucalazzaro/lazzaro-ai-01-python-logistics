@@ -1,0 +1,17 @@
+# Uso personale
+domande_e_risposte.md
+spiegazione_codice.md
+
+# Tracce del corso (materiale ProfessionAI)
+Sistema di monitoraggio ordini e magazzino in Python.docx
+
+# Dati locali generati a runtime
+dati/
+data/
+*.csv
+*.json
+
+# Ambiente Python
+__pycache__/
+*.pyc
+.env
